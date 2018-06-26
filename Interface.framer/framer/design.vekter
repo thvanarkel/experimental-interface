@@ -386,9 +386,7 @@
         "top" : 166,
         "visible" : true,
         "width" : 46,
-        "widthFactor" : null,
-        "x" : 174,
-        "y" : 226
+        "widthFactor" : null
       },
       {
         "__class" : "TextNode",
